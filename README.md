@@ -124,25 +124,23 @@ Data disimpan dalam format JSON (`jsonEncode` / `jsonDecode`) dan akan dimuat se
 
 ## 📸 Screenshot Aplikasi
 
-<!-- screenshot akan ditambahkan -->
-
 ### Screen Utama
 | Home / Weather Screen | Search Screen |
 | :---: | :---: |
-| <img src="screenshots/home.png" width="220"> | <img src="screenshots/search.png" width="220"> |
+| <img src="docs/home.jpeg" width="220"> | <img src="docs/search.jpeg" width="220"> |
 | Tampilan utama cuaca terkini & prakiraan harian | Halaman pencarian kota |
 
 ### Pencarian dan Favorit
 | Hasil Pencarian | Lokasi Favorit | Riwayat Pencarian |
 | :---: | :---: | :---: |
-| <img src="screenshots/hasil-pencarian.png" width="220"> | <img src="screenshots/favorit.png" width="220"> | <img src="screenshots/riwayat.png" width="220"> |
+| <img src="docs/hasil-pencarian.jpeg" width="220"> | <img src="docs/favorit.jpeg" width="220"> | <img src="docs/riwayat.jpeg" width="220"> |
 | Daftar hasil pencarian kota di Indonesia | Daftar kota favorit tersimpan | Riwayat pencarian kota |
 
 ### Kondisi Aplikasi
-| Loading | Data Kosong | Error |
-| :---: | :---: | :---: |
-| <img src="screenshots/loading.png" width="220"> | <img src="screenshots/kosong.png" width="220"> | <img src="screenshots/error.png" width="220"> |
-| Kondisi saat memuat data API | Kondisi "Kota tidak ditemukan" | Kondisi error & tombol "Coba lagi" |
+| Data Kosong | Error |
+| :---: | :---: |
+| <img src="docs/kosong.jpeg" width="220"> | <img src="docs/error.jpeg" width="220"> |
+| Kondisi "Kota tidak ditemukan" | Kondisi error & tombol "Coba lagi" |
 
 ---
 
