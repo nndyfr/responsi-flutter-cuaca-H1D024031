@@ -26,6 +26,8 @@ class WeatherViewModel extends ChangeNotifier {
 
   Future<void> selectLocation(LocationModel loc) async {
     location = loc;
+    state = ViewState.loading;
+    notifyListeners();
     await _storage.saveLastLocation(loc);
     await loadWeather();
   }
