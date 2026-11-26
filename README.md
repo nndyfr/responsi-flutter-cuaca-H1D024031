@@ -1,6 +1,6 @@
 # Aplikasi Cuaca Flutter (Responsi Flutter)
 
-Aplikasi cuaca seluler dan web berbasis Flutter yang dikembangkan untuk memenuhi tugas Responsi Pemrograman Mobile. Aplikasi ini menerapkan pola arsitektur **MVVM (Model-View-ViewModel)**, state management **Provider**, pengambilan data dinamis dari **Open-Meteo REST API**, serta penyimpanan lokal menggunakan **SharedPreferences**.
+Aplikasi cuaca mobile berbasis Flutter yang dikembangkan untuk memenuhi tugas Responsi Pemrograman Mobile. Aplikasi ini menerapkan pola arsitektur **MVVM (Model-View-ViewModel)**, state management **Provider**, pengambilan data dinamis dari **Open-Meteo REST API**, serta penyimpanan lokal menggunakan **SharedPreferences**.
 
 ---
 
@@ -152,7 +152,7 @@ Link video: https://youtu.be/XwQF7vcbnMw?si=BStSaPOfMGa2lMtu
 ## 🛠️ Cara Menjalankan Proyek
 
 ### Prasyarat:
-* Pastikan **Flutter SDK** (versi 3.13 atau terbaru) sudah terinstal di komputer Anda.
+* Pastikan **Flutter SDK** terbaru sudah terinstal (Dart SDK 3.13.5).
 
 ### Langkah-langkah:
 1. Unduh atau *clone* repositori proyek ini.
