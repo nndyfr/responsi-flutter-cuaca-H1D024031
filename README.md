@@ -145,7 +145,7 @@ Data disimpan dalam format JSON (`jsonEncode` / `jsonDecode`) dan akan dimuat se
 ---
 
 ## 📹 Video Penjelasan
-Link video: (akan ditambahkan)
+Link video: https://youtu.be/XwQF7vcbnMw?si=BStSaPOfMGa2lMtu
 
 ---
 
